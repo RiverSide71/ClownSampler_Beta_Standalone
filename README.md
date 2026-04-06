@@ -36,7 +36,7 @@ git clone https://github.com/RiverSide71/ClownSampler_Beta_Standlone.git
 2. Restart ComfyUI. The startup log will print:
 
 ```
-[ClownSampler_Beta standalone] Loaded successfully.
+[ClownSampler_Beta_Standalone] Loaded successfully.
 ```
 
 No git? Download and extract the ZIP from GitHub → **Code → Download ZIP**.
