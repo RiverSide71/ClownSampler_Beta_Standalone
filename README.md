@@ -13,7 +13,7 @@ custom nodes in ComfyUI, without installing the entire
 
 ## No extra packages required
 
-The full RES4LYF `requirements.txt` lists `kornia`, `opencv-python`, and `einops`. **None of these are needed here.** Those packages are used by other nodes which are not part of the beta sampler chain at all. The beta sampler depends only on `torch` and `numpy`, both of which are already bundled with every ComfyUI installation.
+The full RES4LYF `requirements.txt` has several requirements. **None of these are needed here.** Those packages are used by other nodes which are not part of the beta sampler chain at all. The beta sampler depends only on `torch` and `numpy`, both of which are already bundled with every ComfyUI installation.
 
 **Do not run `pip install -r requirements.txt` from the full RES4LYF repo **
 Doing so risks installing pinned package versions that can break your existing ComfyUI Python enviornment.
