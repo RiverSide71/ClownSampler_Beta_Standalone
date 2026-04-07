@@ -1,12 +1,12 @@
 # ClownSampler_Beta_Standalone ComfyUI Custom Node
 
 A minimal standalone package that gives you
-**ClownSampler_ Beta** and **ClownSampler Advanced Beta** 
-custom nodes in ComfyUI, without installing the entire
+**ClownSampler Beta** and **ClownSampler Advanced Beta** 
+custom nodes in ComfyUI for use with the official LTX2.3 workflow, without installing the entire
 [RES4LYF](https://github.com/ClownsharkBatwing/RES4LYF) node pack.
 
 > All sampling algorithms and original code belong to **ClownsharkBatwing**.  
-> This package only contains necessary files, and edits to some files to be able to use Clownsampler_Beta and ClownSampler Advanced Beta nodes.   
+> This package only contains necessary files, and edits to be able to use Clownsampler Beta and ClownSampler Advanced Beta nodes for use with LTX2.3 official workflow  
 > Source: https://github.com/ClownsharkBatwing/RES4LYF
 
 ---
@@ -22,7 +22,7 @@ Doing so risks installing pinned package versions that can break your existing C
 
 ## Why this repo?
 
-This package identifies exactly which files to copy, and makes minor edits to some, so all dependencies resolve correctly for ClownSampler_Beta to run, without pulling in anything else from the original RES4LYF repo.
+The official LTX2.3 workflow requires the ClownSampler Beta custom node. This package identifies exactly which files to copy, and makes minor edits to some, so all dependencies resolve correctly for ClownSampler Beta to run, without pulling in anything else from the original RES4LYF repo.
 
 ---
 
