@@ -1,4 +1,4 @@
-# ClownSampler_Beta Standalone — NO Requirements!
+# ClownSampler_Beta_Standalone — NO Requirements!
 # =====================================================
 # The full RES4LYF requirements.txt includes packages for features that are
 # completely outside the beta sampler chain (e.g., style transfer, image processing
