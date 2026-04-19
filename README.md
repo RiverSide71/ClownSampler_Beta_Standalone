@@ -31,7 +31,7 @@ The official LTX2.3 workflow requires the ClownSampler Beta custom node. This pa
 1. Clone this repo into your `ComfyUI/custom_nodes/` folder. 
 
 ```bash
-git clone https://github.com/RiverSide71/ClownSampler_Beta_Standlone.git
+git clone https://github.com/RiverSide71/ClownSampler_Beta_Standalone.git
 ```
 2. Restart ComfyUI. The startup log will print:
 
