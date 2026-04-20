@@ -1,4 +1,4 @@
-# ClownSampler\_Beta\_Standalone ComfyUI Custom Node
+# ClownSampler_Beta_Standalone ComfyUI Custom Node
 
 A minimal standalone package that gives you
 **ClownSampler_Beta** , **ClownSamplerAdvanced_Beta** , **ClownOptions_SDE_Beta** , and **SharkOptions_Beta** custom nodes in ComfyUI, without installing the entire
@@ -64,15 +64,15 @@ ComfyUI/
       ├─ res4lyf.config.json           ← provided in this package
       ├─ res4lyf.py                    ← provided in this package
       ├─ sigmas.py                     ← copy from RES4LYF
-      ├─ style\\\_transfer.py             ← copy from RES4LYF
+      ├─ style_transfer.py             ← copy from RES4LYF
       └─ beta/
          ├─ __init__.py                ← provided in this package
          ├─ constants.py               ← copy from RES4LYF  beta/constants.py
          ├─ deis_coefficients.py       ← copy from RES4LYF  beta/deis_coefficients.py
          ├─ noise_classes.py           ← copy from RES4LYF  beta/noise_classes.py
          ├─ phi_functions.py           ← copy from RES4LYF  beta/phi_functions.py
-         ├─ rk_coefficients_beta.py    ← copy from RES4LYF beta/rk_coefficients_beta.py
-         ├─ rk_guide_func_beta.py      ← copy from RES4LYF beta/rk_guide_func_beta.py
+         ├─ rk_coefficients_beta.py    ← copy from RES4LYF  beta/rk_coefficients_beta.py
+         ├─ rk_guide_func_beta.py      ← copy from RES4LYF  beta/rk_guide_func_beta.py
          ├─ rk_method_beta.py          ← copy from RES4LYF  beta/rk_method_beta.py
          ├─ rk_noise_sampler_beta.py   ← copy from RES4LYF  beta/rk_noise_sampler_beta.py
          ├─ rk_sampler_beta.py         ← copy from RES4LYF  beta/rk_sampler_beta.py
