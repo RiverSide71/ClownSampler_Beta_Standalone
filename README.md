@@ -30,7 +30,7 @@ This package identifies exactly which files to copy, and makes minor edits to so
 1. Clone this repo into your `ComfyUI/custom_nodes` folder.
 
 ```bash
-git clone https://github.com/RiverSide71/ClownSampler_Beta_Standlone.git
+git clone https://github.com/RiverSide71/ClownSampler_Beta_Standalone.git
 ```
 
 2. Restart ComfyUI. The startup log will print:
